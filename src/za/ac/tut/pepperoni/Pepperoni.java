@@ -43,6 +43,11 @@ public class Pepperoni extends Pizza {
         return pizzaPrice;
     }
 
+    @Override
+    public String toString() {
+        return "Pepperoni{" + '}';
+    }
+
 
     
     

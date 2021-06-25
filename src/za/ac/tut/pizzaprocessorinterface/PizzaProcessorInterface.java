@@ -14,10 +14,10 @@ import za.ac.tut.pizza.Pizza;
  */
 public interface PizzaProcessorInterface {
     
-    public Pizza determinrBestPizzaType(List<Pizza> pizzaTypes);
+    public Pizza determineBestPizzaType(List<Pizza> pizzaTypes);
     
     
-     public Pizza determinrNumOfPizzaTypeBought(List<Pizza> pizzaTypes);
+     public Pizza determineNumOfPizzaTypeBought(List<Pizza> pizzaTypes);
     
     
 

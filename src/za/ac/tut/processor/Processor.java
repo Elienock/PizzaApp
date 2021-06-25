@@ -15,16 +15,17 @@ import za.ac.tut.pizzaprocessorinterface.PizzaProcessorInterface;
  */
 public class Processor implements PizzaProcessorInterface {
 
+   
+
     @Override
-    public Pizza determinrBestPizzaType(List<Pizza> pizzaTypes) {
+    public Pizza determineBestPizzaType(List<Pizza> pizzaTypes) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
     @Override
-    public Pizza determinrNumOfPizzaTypeBought(List<Pizza> pizzaTypes) {
+    public Pizza determineNumOfPizzaTypeBought(List<Pizza> pizzaTypes) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
-    //god is good everyday
     
     
     
